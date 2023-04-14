@@ -1,0 +1,62 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #b6d8f4;
+
+}
+.title{
+  color: #09eb8c;
+  background-color:#FF4081;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.modal-dialog{
+  margin-left: 10%;
+  margin-right: 10%;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+}
+
+
+.App {
+    text-align: left;
+    /* margin-left: 5%; */
+  }
+  input[type="checkbox"] {
+    margin-right:5px; 
+    margin-left: 10px;
+  }
+  .image-title{
+    background-color: rgb(9, 199, 247);
+    padding-left: 15px;
+    padding-right: 15px;
+    text-transform: capitalize;
+    font-weight: bold;
+    border-radius: 10px;
+  } 
+  .desc-title{
+    background-color: rgb(39, 251, 191);
+    padding-left: 15px;
+    padding-right: 15px;
+    text-transform: capitalize;
+    font-weight: bold;
+    border-radius: 10px;
+  }
+  .Skill{
+   float: left;
+  }
+  .form-select{
+    /* background-color: red; */
+    width: 250px;
+  }
+  .Enroll h3{
+    margin-top: 10px;
+    color: hsl(0, 0%, 1%);
+    text-align: center;
+
+  }
+  .head img{
+    height: 20%;
+    width: 9%;
+    float:left ;
+  }
